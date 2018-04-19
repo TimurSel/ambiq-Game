@@ -1,3 +1,3 @@
 # ambiq-Game
 
-begin of the develop branch
+begin of the develop branch finish 1st 
